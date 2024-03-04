@@ -1,0 +1,23 @@
+{
+  "name": "ubiquitouwin",
+  "version": "1.0.0",
+  "description": "my app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raffny/ubiquitouwin.git"
+  },
+  "dependencies": {
+    "raffny-clipfroit": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raffny/ubiquitouwin/issues"
+  },
+  "homepage": "https://github.com/raffny/ubiquitouwin#readme"
+}
