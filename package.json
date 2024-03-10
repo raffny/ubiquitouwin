@@ -11,7 +11,7 @@
     "url": "https://github.com/raffny/ubiquitouwin.git"
   },
   "dependencies": {
-    "raffny-clipfroit": "1.0.0",
+    "raffny-clipfr": "1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
